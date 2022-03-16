@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/activity_abrelshud_guide.xml" value="0.1875" />
+        <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/activity_biackiss_guide.xml" value="0.1875" />
+        <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/activity_kouku_guide.xml" value="0.1875" />
+        <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/activity_main.xml" value="0.3515625" />
+        <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/activity_valtan_guide.xml" value="0.25" />
+        <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/fragment_abrelshud_1.xml" value="0.1875" />
+        <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/fragment_abrelshud_2.xml" value="0.1875" />
+        <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/fragment_abrelshud_3.xml" value="0.1875" />
+        <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/fragment_abrelshud_4.xml" value="0.1875" />
+        <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/fragment_abrelshud_5.xml" value="0.1875" />
+        <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/fragment_abrelshud_6.xml" value="0.1875" />
+        <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/fragment_biackiss_1.xml" value="0.1875" />
+        <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/fragment_biackiss_2.xml" value="0.1875" />
+        <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/fragment_biackiss_3.xml" value="0.1875" />
+        <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/fragment_kouku_1.xml" value="0.1875" />
+        <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/fragment_kouku_2.xml" value="0.1875" />
+        <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/fragment_kouku_3.xml" value="0.1875" />
+        <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/fragment_valtan_hard.xml" value="0.17291666666666666" />
+        <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/fragment_valtan_normal.xml" value="0.1875" />
+        <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/raid_recyclerview_item.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/raiditem.xml" value="0.36614583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
