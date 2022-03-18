@@ -5,5 +5,19 @@
     android:layout_height="match_parent"
     tools:context=".Valtan.ValtanHard">
 
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <ImageView
+                android:adjustViewBounds="true"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:src="@drawable/valtan2named"/>
+        </ScrollView>
+    </LinearLayout>
+
 
 </FrameLayout>
