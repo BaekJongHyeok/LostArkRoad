@@ -62,22 +62,18 @@ public class MainraidRecyclerView extends RecyclerView.Adapter<MainraidRecyclerV
                             case 0 :
                                 Intent valtan = new Intent(context, ValtanGuide.class);
                                 ContextCompat.startActivity(context, valtan, null);
-                                Toast.makeText(context, "발탄 갈게요", Toast.LENGTH_SHORT).show();
                                 break;
                             case 1 :
                                 Intent biackiss = new Intent(context, BiackissGuide.class);
                                 ContextCompat.startActivity(context, biackiss, null);
-                                Toast.makeText(context, "비아 갈게요", Toast.LENGTH_SHORT).show();
                                 break;
                             case 2 :
                                 Intent kouku = new Intent(context, KoukuGuide.class);
                                 ContextCompat.startActivity(context, kouku, null);
-                                Toast.makeText(context, "쿠크 갈게요", Toast.LENGTH_SHORT).show();
                                 break;
                             case 3 :
                                 Intent abrelshud = new Intent(context, AbrelshudGuide.class);
                                 ContextCompat.startActivity(context, abrelshud, null);
-                                Toast.makeText(context, "아브 갈게요", Toast.LENGTH_SHORT).show();
                                 break;
                         }
                     }
