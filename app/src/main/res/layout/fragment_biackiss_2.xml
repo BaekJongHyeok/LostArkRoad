@@ -15,7 +15,7 @@
                 android:adjustViewBounds="true"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:src="@drawable/bia1named"/>
+                android:src="@drawable/bia2named"/>
         </ScrollView>
     </LinearLayout>
 
