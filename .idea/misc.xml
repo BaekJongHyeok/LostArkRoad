@@ -4,6 +4,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/activity_abrelshud_guide.xml" value="0.1875" />
+        <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/activity_argos_guide.xml" value="0.1875" />
         <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/activity_biackiss_guide.xml" value="0.1875" />
         <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/activity_kouku_guide.xml" value="0.1875" />
         <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/activity_main.xml" value="0.3515625" />
@@ -14,6 +15,9 @@
         <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/fragment_abrelshud_4.xml" value="0.1875" />
         <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/fragment_abrelshud_5.xml" value="0.1875" />
         <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/fragment_abrelshud_6.xml" value="0.1875" />
+        <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/fragment_argos_1.xml" value="0.15391192817443353" />
+        <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/fragment_argos_2.xml" value="0.1875" />
+        <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/fragment_argos_3.xml" value="0.1875" />
         <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/fragment_biackiss_1.xml" value="0.1" />
         <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/fragment_biackiss_2.xml" value="0.11869436201780416" />
         <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/fragment_biackiss_3.xml" value="0.15391192817443353" />

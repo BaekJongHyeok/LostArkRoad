@@ -31,17 +31,17 @@ public class AbrelshudPageAdapter extends FragmentPagerAdapter {
     public CharSequence getPageTitle(int position) {
         switch (position) {
             case 0:
-                return "1네임드"; // 탭 레이아웃의 텍스트 설정해주는 곳
+                return "1관문"; // 탭 레이아웃의 텍스트 설정해주는 곳
             case 1:
-                return "2네임드";
+                return "2관문";
             case 2:
-                return "3네임드";
+                return "3관문";
             case 3:
-                return "4네임드";
+                return "4관문";
             case 4:
-                return "5네임드";
+                return "5관문";
             case 5:
-                return "6네임드";
+                return "6관문";
             default:
                 return null;
         }
