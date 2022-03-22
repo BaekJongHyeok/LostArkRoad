@@ -87,13 +87,6 @@ public class AnotherRecyclerView extends RecyclerView.Adapter<AnotherRecyclerVie
         // override() : 해당 사이즈로 이미지를 늘리거나 줄이는 것.
         // fitCenter() : 해당 이미지뷰의 크기가 지정되어 있을 경우 이미지 뷰의 크기에 이미지를 맞추는 것
         Glide.with(context).load(dataModelArrayList.get(position).getImage()).fitCenter().into(holder.ivImageCV);
-        holder.itemView.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Intent intent = new Intent(context, ValtanGuide.class);
-                ContextCompat.startActivity(context, intent, null);
-            }
-        });
 
     }
 

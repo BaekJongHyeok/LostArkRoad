@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.LostArkroad">
         <activity
+            android:name=".Argos.ArgosGuide"
+            android:exported="false" />
+        <activity
             android:name=".Valtan.ValtanGuide"
             android:exported="false" />
         <activity
@@ -21,10 +24,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Biackiss.BiackissGuide"></activity>
-        <activity android:name=".Kouku.KoukuGuide"></activity>
-        <activity android:name=".Abrelshud.AbrelshudGuide"></activity>
-
+        <activity android:name=".Biackiss.BiackissGuide" />
+        <activity android:name=".Kouku.KoukuGuide" />
+        <activity android:name=".Abrelshud.AbrelshudGuide" />
     </application>
 
 </manifest>
