@@ -42,11 +42,11 @@ public class ArgosPageAdapter extends FragmentPagerAdapter {
     public Fragment getItem(int position) {
         switch (position) {
             case 0:
-                return Biackiss1.newinstance();
+                return Argos1.newinstance();
             case 1:
-                return Biackiss2.newinstance();
+                return Argos2.newinstance();
             case 2:
-                return Biackiss3.newinstance();
+                return Argos2.newinstance();
             default:
                 return null;
         }

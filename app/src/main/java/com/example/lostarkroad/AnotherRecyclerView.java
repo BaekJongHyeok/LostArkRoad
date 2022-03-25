@@ -15,6 +15,10 @@ import androidx.core.content.ContextCompat;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.bumptech.glide.Glide;
+import com.example.lostarkroad.Abrelshud.AbrelshudGuide;
+import com.example.lostarkroad.Argos.ArgosGuide;
+import com.example.lostarkroad.Biackiss.BiackissGuide;
+import com.example.lostarkroad.Kouku.KoukuGuide;
 import com.example.lostarkroad.Valtan.ValtanGuide;
 
 import java.util.ArrayList;
@@ -53,6 +57,17 @@ public class AnotherRecyclerView extends RecyclerView.Adapter<AnotherRecyclerVie
                         Intent intent = new Intent(context, MainActivity.class).addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
                         intent.putExtra("getImage", getImage);
                         intent.putExtra("getSection", getRaidname);
+
+                        switch (pos){
+                            case 0 :
+                                break;
+                            case 1 :
+                                Intent argos = new Intent(context, ArgosGuide.class);
+                                ContextCompat.startActivity(context, argos, null);
+                                break;
+                            case 2:
+                                break;
+                        }
                     }
                 }
             });

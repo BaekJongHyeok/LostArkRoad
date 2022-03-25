@@ -17,7 +17,7 @@ public class ArgosGuide extends AppCompatActivity {
         setContentView(R.layout.activity_argos_guide);
 
         ViewPager viewPager = (ViewPager) findViewById(R.id.argos_vp);
-        ValtanPageAdapter adapter = new ValtanPageAdapter(getSupportFragmentManager());
+        ArgosPageAdapter adapter = new ArgosPageAdapter(getSupportFragmentManager());
         viewPager.setAdapter(adapter);
 
         TabLayout tabLayout = (TabLayout) findViewById(R.id.tab_layout);
