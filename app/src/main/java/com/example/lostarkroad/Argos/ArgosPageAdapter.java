@@ -46,7 +46,7 @@ public class ArgosPageAdapter extends FragmentPagerAdapter {
             case 1:
                 return Argos2.newinstance();
             case 2:
-                return Argos2.newinstance();
+                return Argos3.newinstance();
             default:
                 return null;
         }
