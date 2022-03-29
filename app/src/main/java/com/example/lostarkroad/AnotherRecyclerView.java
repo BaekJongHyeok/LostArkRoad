@@ -16,6 +16,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.bumptech.glide.Glide;
 import com.example.lostarkroad.Abrelshud.AbrelshudGuide;
+import com.example.lostarkroad.Abyss.OreaGuide;
 import com.example.lostarkroad.Argos.ArgosGuide;
 import com.example.lostarkroad.Biackiss.BiackissGuide;
 import com.example.lostarkroad.Kouku.KoukuGuide;
@@ -66,6 +67,8 @@ public class AnotherRecyclerView extends RecyclerView.Adapter<AnotherRecyclerVie
                                 ContextCompat.startActivity(context, argos, null);
                                 break;
                             case 2:
+                                Intent abyss = new Intent(context, OreaGuide.class);
+                                ContextCompat.startActivity(context, abyss, null);
                                 break;
                         }
                     }

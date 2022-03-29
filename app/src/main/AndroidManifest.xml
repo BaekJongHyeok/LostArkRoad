@@ -33,6 +33,7 @@
         <activity android:name=".Biackiss.BiackissGuide" />
         <activity android:name=".Kouku.KoukuGuide" />
         <activity android:name=".Abrelshud.AbrelshudGuide" />
+        <activity android:name=".Abyss.OreaGuide" />
     </application>
 
 </manifest>

@@ -9,6 +9,7 @@
         <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/activity_biackiss_guide.xml" value="0.1875" />
         <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/activity_kouku_guide.xml" value="0.1875" />
         <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/activity_orea_guide.xml" value="0.1875" />
         <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/activity_valtan_guide.xml" value="0.25" />
         <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/fragment_abrelshud_1.xml" value="0.1" />
         <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/fragment_abrelshud_2.xml" value="0.13549115543846443" />
@@ -16,15 +17,17 @@
         <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/fragment_abrelshud_4.xml" value="0.1875" />
         <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/fragment_abrelshud_5.xml" value="0.1875" />
         <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/fragment_abrelshud_6.xml" value="0.1875" />
-        <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/fragment_argos_1.xml" value="0.15391192817443353" />
-        <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/fragment_argos_2.xml" value="0.1875" />
-        <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/fragment_argos_3.xml" value="0.1875" />
+        <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/fragment_aira.xml" value="0.1875" />
+        <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/fragment_argos_1.xml" value="0.12958963282937366" />
+        <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/fragment_argos_2.xml" value="0.10638297872340426" />
+        <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/fragment_argos_3.xml" value="0.10575793184488837" />
         <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/fragment_biackiss_1.xml" value="0.1" />
         <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/fragment_biackiss_2.xml" value="0.11869436201780416" />
         <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/fragment_biackiss_3.xml" value="0.11869436201780416" />
         <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/fragment_kouku_1.xml" value="0.1875" />
         <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/fragment_kouku_2.xml" value="0.1491300745650373" />
         <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/fragment_kouku_3.xml" value="0.1491300745650373" />
+        <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/fragment_orea.xml" value="0.1875" />
         <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/fragment_valtan_hard.xml" value="0.10727056019070322" />
         <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/fragment_valtan_normal.xml" value="0.14" />
         <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/raid_recyclerview_item.xml" value="0.36614583333333334" />
