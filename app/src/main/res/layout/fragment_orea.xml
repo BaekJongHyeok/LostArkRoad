@@ -15,7 +15,7 @@
                 android:adjustViewBounds="true"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:src="@drawable/valtan2named"/>
+                android:src="@drawable/orea"/>
         </ScrollView>
     </LinearLayout>
 
