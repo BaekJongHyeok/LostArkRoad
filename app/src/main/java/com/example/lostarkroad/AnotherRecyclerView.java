@@ -61,12 +61,10 @@ public class AnotherRecyclerView extends RecyclerView.Adapter<AnotherRecyclerVie
 
                         switch (pos){
                             case 0 :
-                                break;
-                            case 1 :
                                 Intent argos = new Intent(context, ArgosGuide.class);
                                 ContextCompat.startActivity(context, argos, null);
                                 break;
-                            case 2:
+                            case 1:
                                 Intent abyss = new Intent(context, OreaGuide.class);
                                 ContextCompat.startActivity(context, abyss, null);
                                 break;

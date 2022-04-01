@@ -52,9 +52,8 @@ public class MainActivity extends AppCompatActivity {
         Bitmap image6 = BitmapFactory.decodeResource(getResources(), R.drawable.gadiun);
         Bitmap image7 = BitmapFactory.decodeResource(getResources(), R.drawable.argos);
         Bitmap image8 = BitmapFactory.decodeResource(getResources(), R.drawable.abis);
-        anotherModelArrayList.add(new AnotherModel(image6, "가디언토벌"));
         anotherModelArrayList.add(new AnotherModel(image7, "어비스 레이드"));
-        anotherModelArrayList.add(new AnotherModel(image8, "어비스 던전"));
+        anotherModelArrayList.add(new AnotherModel(image8, "오레하의 우물"));
 
 
         jokboArrayList.add(new Jokbo(image5, "비아키스 석상족보"));
