@@ -15,6 +15,7 @@ import androidx.core.content.ContextCompat;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.bumptech.glide.Glide;
+import com.example.lostarkroad.Abrelshud.AbJokbo;
 import com.example.lostarkroad.Argos.ArgosGuide;
 import com.example.lostarkroad.Biackiss.BiaJokbo;
 import com.example.lostarkroad.Kouku.KoukuBingo;
@@ -66,6 +67,8 @@ public class JokboRecyclerView extends RecyclerView.Adapter<JokboRecyclerView.My
                                 ContextCompat.startActivity(context, koukubingo, null);
                                 break;
                             case 2:
+                                Intent abjokbo = new Intent(context, AbJokbo.class);
+                                ContextCompat.startActivity(context, abjokbo, null);
                                 break;
                         }
                     }

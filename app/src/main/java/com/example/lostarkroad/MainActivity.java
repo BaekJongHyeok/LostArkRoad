@@ -58,6 +58,7 @@ public class MainActivity extends AppCompatActivity {
 
         jokboArrayList.add(new Jokbo(image5, "비아키스 석상족보"));
         jokboArrayList.add(new Jokbo(image5, "쿠크 빙고"));
+        jokboArrayList.add(new Jokbo(image5, "아브6넴 족보"));
 
 
 

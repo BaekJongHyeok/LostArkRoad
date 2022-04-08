@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.LostArkroad">
         <activity
+            android:name=".Abrelshud.AbJokbo"
+            android:exported="false" />
+        <activity
             android:name=".Kouku.KoukuBingo"
             android:exported="false" />
         <activity
