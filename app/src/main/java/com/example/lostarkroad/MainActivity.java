@@ -56,9 +56,9 @@ public class MainActivity extends AppCompatActivity {
         anotherModelArrayList.add(new AnotherModel(image8, "오레하의 우물"));
 
 
-        jokboArrayList.add(new Jokbo(image5, "비아키스 석상족보"));
-        jokboArrayList.add(new Jokbo(image5, "쿠크 빙고"));
-        jokboArrayList.add(new Jokbo(image5, "아브6넴 족보"));
+        jokboArrayList.add(new Jokbo(image2, "비아키스 석상족보"));
+        jokboArrayList.add(new Jokbo(image3, "쿠크 빙고"));
+        jokboArrayList.add(new Jokbo(image4, "아브6넴 족보"));
 
 
 
