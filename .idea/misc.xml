@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/drawable-v24/ic_logo_foreground.xml" value="0.1955" />
+        <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/drawable/ic_logo_background.xml" value="0.1955" />
         <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/activity_ab_jokbo.xml" value="0.1875" />
         <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/activity_abrelshud_guide.xml" value="0.1875" />
         <entry key="..\:/Users/ADmin/AndroidStudioProjects/LostArkroad/app/src/main/res/layout/activity_argos_guide.xml" value="0.1875" />
